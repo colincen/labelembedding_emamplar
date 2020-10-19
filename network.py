@@ -426,6 +426,7 @@ def cross_domain(model_path, device='cuda:1'):
 
 if __name__ == '__main__':
     print('hello')
+    print('h')
     config = model_config()
     if config.attn == 'dot':
         from models.bilstm_dotproduct import Bilstm_LabelEmbedding
