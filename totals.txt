@@ -1,0 +1,207 @@
+dot-attention
+
+AddToPlaylist 54.89
+artist 66.52
+entity_name 1.36
+music_item 83.16
+playlist 64.45
+playlist_owner 0.00
+
+BookRestaurant 34.60
+city 67.74
+country 84.59
+cuisine 6.77
+facility 0.39
+party_size_description 0.00
+party_size_number 0.00
+poi 4.60
+restaurant_name 6.06
+restaurant_type 0.00
+served_dish 0.18
+sort 27.74
+spatial_relation 78.37
+state 87.25
+timeRange 42.87
+
+GetWeather 60.79
+city 66.43
+condition_description 0.00
+condition_temperature 0.00
+country 78.58
+current_location 0.00
+geographic_poi 2.43
+spatial_relation 73.95
+state 86.05
+timeRange 78.05
+
+PlayMusic 35.13
+album 1.75
+artist 69.39
+genre 0.72
+music_item 61.77
+playlist 16.57
+service 0.15
+sort 10.33
+track 0.28
+year 3.09
+
+RateBook 13.12
+best_rating 0.00
+object_name 5.87
+object_part_of_series_type 0.00
+object_select 9.67
+object_type 59.42
+rating_unit 0.00
+rating_value 0.28
+
+SearchCreativeWork 32.89
+object_name 34.50
+object_type 30.06
+
+SearchScreeningEvent 22.73
+location_name 45.78
+movie_name 1.32
+movie_type 0.06
+object_location_type 0.58
+object_type 0.36
+spatial_relation 62.40
+timeRange 64.13
+
+multiplicative
+
+AddToPlaylist 56.51
+artist 68.40
+entity_name 7.00
+music_item 86.51
+playlist 65.82
+playlist_owner 0.00
+
+BookRestaurant 38.81
+city 64.79
+country 88.50
+cuisine 12.03
+facility 0.06
+party_size_description 0.00
+party_size_number 0.00
+poi 5.44
+restaurant_name 11.77
+restaurant_type 0.00
+served_dish 0.07
+sort 36.68
+spatial_relation 78.00
+state 89.76
+timeRange 44.17
+
+GetWeather 59.85
+city 65.52
+condition_description 0.13
+condition_temperature 0.00
+country 76.97
+current_location 0.00
+geographic_poi 10.36
+spatial_relation 67.71
+state 87.09
+timeRange 77.68
+
+PlayMusic 42.19
+album 3.98
+artist 81.69
+genre 2.02
+music_item 63.82
+playlist 18.41
+service 0.03
+sort 7.03
+track 0.00
+year 17.61
+
+RateBook 15.23
+best_rating 0.02
+object_name 6.90
+object_part_of_series_type 0.00
+object_select 5.39
+object_type 67.06
+rating_unit 0.00
+rating_value 4.45
+
+SearchCreativeWork 40.89
+object_name 42.99
+object_type 37.17
+
+SearchScreeningEvent 27.35
+location_name 56.24
+movie_name 0.93
+movie_type 0.25
+object_location_type 0.00
+object_type 0.33
+spatial_relation 66.40
+timeRange 67.64
+
+additive
+
+AddToPlaylist 57.13
+artist 67.96
+entity_name 2.29
+music_item 85.63
+playlist 67.68
+playlist_owner 0.02
+
+BookRestaurant 38.01
+city 60.01
+country 84.90
+cuisine 1.70
+facility 0.00
+party_size_description 0.00
+party_size_number 0.14
+poi 2.13
+restaurant_name 3.40
+restaurant_type 0.15
+served_dish 1.38
+sort 39.14
+spatial_relation 78.49
+state 87.86
+timeRange 41.00
+
+GetWeather 56.09
+city 62.91
+condition_description 1.15
+condition_temperature 0.20
+country 73.89
+current_location 0.00
+geographic_poi 2.66
+spatial_relation 76.92
+state 85.04
+timeRange 66.45
+
+PlayMusic 38.10
+album 1.02
+artist 76.28
+genre 0.11
+music_item 63.05
+playlist 16.45
+service 6.03
+sort 8.31
+track 0.59
+year 6.02
+
+RateBook 15.50
+best_rating 1.09
+object_name 6.52
+object_part_of_series_type 0.47
+object_select 2.24
+object_type 60.08
+rating_unit 0.25
+rating_value 6.47
+
+SearchCreativeWork 35.49
+object_name 34.11
+object_type 37.41
+
+SearchScreeningEvent 28.06
+location_name 63.24
+movie_name 0.92
+movie_type 5.95
+object_location_type 2.89
+object_type 0.04
+spatial_relation 67.63
+timeRange 57.43
+
